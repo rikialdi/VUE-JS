@@ -1,1 +1,0 @@
-1. img   <img src="static/images/zcom/zcom2.jpeg" alt="">
